@@ -6,3 +6,4 @@ modified an exist file and add a new file , then submit
 add first modification
 add second modification hhhhhhhh gggggggggggg
 git stash bug fix
+git stash command learning
